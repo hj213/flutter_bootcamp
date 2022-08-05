@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892746446757",
+    "project_id": "hj213-my-photo",
+    "storage_bucket": "hj213-my-photo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892746446757:android:931dd664a487c9e3c65a4c",
+        "android_client_info": {
+          "package_name": "edu.skku.sco.hj213.my_photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892746446757-bugo219odl8ghun27fsd354ihrrshgv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHIKNuQkwmZaQduCthg8oP7NCIb939Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892746446757-bugo219odl8ghun27fsd354ihrrshgv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
